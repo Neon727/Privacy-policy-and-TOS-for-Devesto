@@ -1,6 +1,6 @@
 # Devesto Privacy Policy
 
-**Last updated:** [DATE]
+**Last updated:** 9/16/26
 
 This Privacy Policy explains what data Devesto ("the Bot", "we", "us") collects when you use it, how that data is used, and your rights regarding it.
 
