@@ -58,5 +58,3 @@ This policy may be updated as Devesto's features change. Continued use of Devest
 
 For data deletion requests or privacy questions, contact the bot owner through the official support server or via the contact method listed on the Devesto website.
 
----
-*This document is a good-faith description of Devesto's actual data practices and is not a substitute for legal advice.*
